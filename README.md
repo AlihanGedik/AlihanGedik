@@ -24,7 +24,7 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihangedik&show_icons=true&locale=en&layout=compact" alt="alihangedik" /></p>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihangedik&show_icons=true&locale=en" alt="alihangedik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihangedik&" alt="alihangedik" /></p>
