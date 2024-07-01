@@ -2,7 +2,7 @@
 <h3 align="center">Selam 👋, Ben Alihan</h3>
 
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
-<h4 align="center">Türkiye'de mibl uygulama geliştiriyorum</h4>
+<h4 align="center">Türkiye'de mobil uygulama geliştiriyorum</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihangedik&label=Profile%20views&color=0e75b6&style=flat" alt="alihangedik" /> </p>
